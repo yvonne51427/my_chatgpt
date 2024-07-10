@@ -7,8 +7,8 @@ This project is a chatbot that interacts with the OpenAI GPT-3.5-turbo model. Th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/yvonne51427/my_chatgpt.git
+cd my_chatgpt
 ```
 
 ### 2. Create a Virtual Environment
