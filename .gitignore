@@ -1,0 +1,15 @@
+# 忽略虛擬環境目錄
+venv/
+
+# 忽略 Python 編譯文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略系統文件
+.DS_Store
+Thumbs.db
+
+# Ignore API key file
+api_key.yaml
